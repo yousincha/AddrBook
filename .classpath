@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JSP_AddrBook/JSP_AddrBook/src"/>
+	<classpathentry kind="lib" path="JSP_AddrBook/JSP_AddrBook/WebContent/WEB-INF/lib/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="output" path="JSP_AddrBook/JSP_AddrBook/build/classes"/>
+</classpath>
